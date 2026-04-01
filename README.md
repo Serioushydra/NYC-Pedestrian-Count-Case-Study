@@ -1,4 +1,4 @@
-# *From Hedge Fund Case Studies to Real-World Data: Predicting Economic Vitality in NYC* 
+# *Case Studies to Real-World Data: Predicting Economic Vitality in NYC* 
 
 
 I recently came across a classic quantitative finance interview question: “How can you use anonymized GPS foot traffic data to predict a retail chain's in-store revenue?”
