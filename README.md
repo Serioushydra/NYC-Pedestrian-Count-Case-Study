@@ -7,7 +7,7 @@ The Challenge: In the real world (and at firms like Citadel), you deal with samp
 To understand this code, you have to view it through the lens of a Quantitative Researcher. In the Citadel case study, the challenge isn't just "running a model"—it's handling the messy reality of Alternative Data (GPS pings, sensor counts, etc.)
 
 
-## **1. The Data Acquisition - The "Panel**
+## **1. The Data Acquisition - The Panel**
 
 url = "https://data.cityofnewyork.us/api/views/cqsj-cfgu/rows.csv?accessType=DOWNLOAD"
 •	 Logic: In the case study, given a "panel" of 10 million phones. In this code, our "panel" is the NYC sensor network.
