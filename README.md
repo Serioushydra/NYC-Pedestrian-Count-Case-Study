@@ -10,6 +10,7 @@ To understand this code, you have to view it through the lens of a Quantitative 
 ## **1. The Data Acquisition - The Panel**
 
 **URL** = "https://data.cityofnewyork.us/api/views/cqsj-cfgu/rows.csv?accessType=DOWNLOAD"
+
 •	 Logic: In the case study, given a "panel" of 10 million phones. In this code, our "panel" is the NYC sensor network.
 •	Just like the interview solution suggests, we first identify the granularity. This dataset provides counts at specific locations, which we will eventually need to "roll up" to a quarterly level if we were matching it to financial reports.
 
