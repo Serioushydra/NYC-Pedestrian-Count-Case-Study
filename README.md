@@ -1,4 +1,6 @@
-From Hedge Fund Case Studies to Real-World Data: Predicting Economic Vitality in NYC 
+*From Hedge Fund Case Studies to Real-World Data: Predicting Economic Vitality in NYC* 
+
+
 I recently came across a classic quantitative finance interview question: “How can you use anonymized GPS foot traffic data to predict a retail chain's in-store revenue?”
 Instead of just theorizing, I decided to build a "Proxy Revenue Model" using NYC Open Data.
 The Challenge: In the real world (and at firms like Citadel), you deal with sampling bias, non-normalized pings, and the "panel size" problem. Using the NYC Bi-Annual Pedestrian Counts dataset, I’ve modeled how foot traffic trends can serve as a leading indicator for local economic health.
